@@ -28,6 +28,9 @@ export default function Home({ allPostsData }) {
         <p>
           (Овој сајт е само за проба и нема многу врска со легендарниот Мано Влаинката :)
         </p>
+        <p>
+          Ver. 0.2.3
+        </p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
