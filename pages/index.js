@@ -24,10 +24,9 @@ export default function Home({ allPostsData }) {
       </Head>
 
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Мано најголемиот комита во тиквешкиот регион!</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (Овој сајт е само за проба )и нема многу врска со Мано Влаинката :)
         </p>
       </section>
 
