@@ -29,7 +29,7 @@ export default function Home({ allPostsData }) {
           (Овој сајт е само за проба и нема многу врска со легендарниот Мано Влаинката :)
         </p>
         <p>
-          Ver. 0.2.4 - development version
+          Ver. 0.2.7 - develop branch for zatki
         </p>
       </section>
 
