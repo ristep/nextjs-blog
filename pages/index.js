@@ -22,14 +22,13 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-    
       <section className={utilStyles.headingMd}>
         <p>Мано најголемиот комита во тиквешкиот регион!</p>
         <p>
           (Овој сајт е само за проба и нема многу врска со легендарниот Мано Влаинката :)
         </p>
         <p>
-          Ver. 0.3.1a - developer
+          Ver. 0.3.1b - developer - req, from vercel
         </p>
       </section>
 
