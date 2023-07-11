@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
           (Овој сајт е само за проба и нема многу врска со легендарниот Мано Влаинката :)
         </p>
         <p>
-          Ver. 0.3.2 -  MainBranch!!!
+          Ver. 0.3.5b - dev version !!!
         </p>
       </section>
 
